@@ -51,6 +51,13 @@ security of solidity
 
 ## 2. Doc of solidity vulnerabilities
 
+[1) SWC-Smart Contract Weakness Classification](https://swcregistry.io/)
+
+[2) Solidity audit-checklist](https://github.com/cryptofinlabs/audit-checklist)
+
+[3) smart-contract-vulnerabilities: attack vectors and examples](https://github.com/kadenzipfel/smart-contract-vulnerabilities)
+
+
 ## 3. Test projects
 
 [1) not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts/tree/master)
@@ -58,4 +65,8 @@ security of solidity
 [2) echidna-exercises](https://github.com/crytic/building-secure-contracts/tree/master/program-analysis/echidna/exercises)
 
 [3) echidna-test](https://github.com/crytic/echidna/tree/master/tests/solidity)
+
+[4) solidity-security-by-example](https://github.com/serial-coder/solidity-security-by-example)
+
+[5) SWC-examples](https://swcregistry.io/)
 
