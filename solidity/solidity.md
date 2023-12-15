@@ -53,3 +53,9 @@ security of solidity
 
 ## 3. Test projects
 
+[1) not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts/tree/master)
+
+[2) echidna-exercises](https://github.com/crytic/building-secure-contracts/tree/master/program-analysis/echidna/exercises)
+
+[3) echidna-test](https://github.com/crytic/echidna/tree/master/tests/solidity)
+
