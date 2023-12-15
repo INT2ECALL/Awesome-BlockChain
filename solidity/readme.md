@@ -24,6 +24,8 @@ security of solidity
 
 [10) Osiris 基于 Oyente 的智能合约整数漏洞扫描器](https://github.com/christoftorres/Osiris)
 
+[11) Slither 智能合约源码审计工具](https://github.com/crytic/slither)
+
 
 ### 1.2 Fuzzer
 
