@@ -70,3 +70,5 @@ security of solidity
 
 [5) SWC-examples](https://swcregistry.io/)
 
+[6) ctf-wiki/ctf-challenges](https://github.com/ctf-wiki/ctf-challenges/tree/master/blockchain)
+
