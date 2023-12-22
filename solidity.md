@@ -72,3 +72,5 @@ security of solidity
 
 [6) ctf-wiki/ctf-challenges](https://github.com/ctf-wiki/ctf-challenges/tree/master/blockchain)
 
+[7) ethernaut: openzeppelin challenges](https://ethernaut.openzeppelin.com/)
+
