@@ -29,3 +29,5 @@ security of blockchain
 
 [9) rekt 新闻](https://rekt.news/)
 
+[10) trailofbits github papers](https://github.com/trailofbits/publications/tree/master/papers)
+
