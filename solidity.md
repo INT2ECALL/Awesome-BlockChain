@@ -57,6 +57,8 @@ security of solidity
 
 [3) smart-contract-vulnerabilities: attack vectors and examples](https://github.com/kadenzipfel/smart-contract-vulnerabilities)
 
+[4) 预测以太坊智能合约中的随机数](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620)
+
 
 ## 3. Test projects
 
